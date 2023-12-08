@@ -1,0 +1,12 @@
+{
+  "name": "timpass",
+  "version": "1.0.0",
+  "description": "timepass",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aztekmsc",
+  "license": "ISC"
+}
